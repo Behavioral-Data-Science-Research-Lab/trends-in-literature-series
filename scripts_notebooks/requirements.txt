@@ -187,6 +187,7 @@ langcodes==3.3.0
 langsmith==0.0.75
 lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/a169db40-97bf-4f51-6893-dc751f705b7b/volume/lazy-object-proxy_1616529067444/work
 lesscpy==0.15.1
+Levenshtein==0.23.0
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
 little-mallet-wrapper==0.5.0
 littleutils==0.2.2
@@ -322,6 +323,7 @@ pytest==6.2.4
 python-dateutil==2.8.1
 python-docx==0.8.10
 python-dotenv==1.0.0
+python-Levenshtein==0.23.0
 python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.4
@@ -337,6 +339,7 @@ QtAwesome @ file:///tmp/build/80754af9/qtawesome_1615991616277/work
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1632739723211/work
 QtPy @ file:///tmp/build/80754af9/qtpy_1629397026935/work
 QualtricsAPI==0.5.8
+rapidfuzz==3.6.1
 redis==4.4.2
 regex==2023.10.3
 requests==2.31.0
